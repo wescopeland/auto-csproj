@@ -1,5 +1,5 @@
 {
-  "name": "auto-csproj",
+  "name": "@wescopeland/auto-csproj",
   "version": "1.0.0",
   "description": "Make working with .csproj files suck less",
   "main": "./lib/index.js",

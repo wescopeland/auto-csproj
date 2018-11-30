@@ -3,7 +3,7 @@
 ### Installation
 
 ```
-npm install -g auto-csproj
+npm install -g @wescopeland/auto-csproj
 ```
 
 ### Usage
