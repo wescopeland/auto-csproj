@@ -1,0 +1,20 @@
+{
+  "name": "auto-csproj",
+  "version": "1.0.0",
+  "description": "Make working with .csproj files suck less",
+  "main": "./lib/index.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "auto-csproj": "./bin/global.js"
+  },
+  "author": "Wes Copeland",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "changed-git-files": "0.0.1",
+    "find-up": "^3.0.0"
+  }
+}
